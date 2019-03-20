@@ -11,4 +11,4 @@ Podrobný popis úlohy je k nalezení na Wikipedii [Conway's Game of Life](https
 * Dokumentaci k implementaci. 
 * Informaci o zhotovení úlohy s odkazem na GIT repository s implementací.
 
-Není potřeba řešit grafickou reprezentaci, ale pokud by byla v rámci projektu implementována, odměníme ji body navíc.
+Není třeba řešit grafickou reprezentaci, ale pokud by byla v rámci projektu implementována, odměníme ji body navíc.
