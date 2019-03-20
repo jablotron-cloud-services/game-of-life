@@ -1,8 +1,8 @@
 # Hra života
 
-Pro uchazeče na pozici Java vývojáře jsme si připravili zadání k aplikaci implementující hru života (Game Of Life). Hra života je velmi zajímavá úloha s jasným zadáním a pravidly. 
+Pro uchazeče na pozici Java vývojáře jsme si připravili zadání k aplikaci implementující hru života (Game Of Life). 
 
-Popis úlohy je k nalezení na Wiki pod odkazem - [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+Úlohu nemá smysl dlouze představovat v zadání. Podrobný popis úlohy je k nalezení na Wikipedii [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 ## Co očekáváme
 
