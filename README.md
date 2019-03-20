@@ -9,6 +9,6 @@ Popis úlohy je k nalezení na Wiki pod odkazem - [Conway's Game of Life](https:
 * Vytvoření GIT repository na **GitHub**/**GitLab**/**Bitbucket**.
 * Implementaci hry života nejlépe tak jak to jen bude možné.
 * Dokumentaci k implementaci. 
-* Informaci o zhotovení úlohy s okdazem na GIT repository s implementací.
+* Informaci o zhotovení úlohy s odkazem na GIT repository s implementací.
 
 Není potřeba řešit grafickou reprezentaci, ale pokud by byla v rámci projektu implementována budeme ji cenit body navíc.
